@@ -67,7 +67,7 @@ Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO)
 
 ## Languages 
 - Spanish: Native
-- English: Intermediate (B1+)
+- English: Intermediate (B2)
   - Strong technical reading comprehension
   - Capable of clear security documentation
   - Actively improving conversational skills
